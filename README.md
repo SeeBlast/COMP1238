@@ -17,3 +17,14 @@ COMP1238 Class - Every Thursday at 12:00 pm - 01:00 pm
 - 🤓
 - 🗿
 - 🔄
+
+## Keyboard shortcuts
+Shortcuts I frequently use: 
+- Ctrl-C (copy)
+- Ctrl-V (paste)
+- Ctrl-Z (undo)
+
+Shortcuts I would like to start using: 
+- Ctrl-A (select all)
+- Win-Shift-S (show desktop)
+- Ctrl-F (Search)
