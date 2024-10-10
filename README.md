@@ -34,4 +34,4 @@ Shortcuts I would like to start using:
 
 lab 6
 
-[CLI commands](docs/Cli.md)
+[CLI commands](Docs/Cli.md)
