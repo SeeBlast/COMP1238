@@ -28,3 +28,10 @@ Shortcuts I would like to start using:
 - Ctrl-A (select all)
 - Win-Shift-S (show desktop)
 - Ctrl-F (Search)
+
+
+# Datamgt
+
+lab 6
+
+[CLI commands](docs/Cli.md)
