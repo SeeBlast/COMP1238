@@ -1,0 +1,3 @@
+select *
+from courses
+where lab_time LIKE	'Fri%'
